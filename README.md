@@ -15,5 +15,5 @@ Explain how to use Spring’s @PathVariable annotation.
 # 5 - http://localhost:8080/request5/2017-04-09/12:15:25
 # 6 - http://localhost:8080/request6/IND,USA,JPN,UK,AUS/DELHI,JANAN,NEW%20YORK
 
-
+# USE master2 branch for latest code
 
